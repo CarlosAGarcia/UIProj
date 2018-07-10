@@ -1,6 +1,8 @@
 # NoIdea_CS3249_Project
 UI project in React-Redux
 
+Project taken as snapshot of what was submitted at time of deadline in May 2017. No further updates have been done.
+
 ## Team members:
 * \*Adam Alsegård, A0153097B
 * Timoté Vaucher, A0153040Y
