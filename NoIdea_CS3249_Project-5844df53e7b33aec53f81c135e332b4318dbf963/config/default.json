@@ -1,0 +1,17 @@
+{
+  "rethinkdb": {
+    "host": "localhost",
+    "port": 28015,
+    "db": "CS3249"
+  },
+  "express": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "buildDirectory": "build",
+  "secret": "2b22694d-4328-4a64-8a3a-32bc4b20a71d",
+  "mailer": {
+    "email": "noideacs3249@gmail.com",
+    "password": "5-^dsTF!9ev\"YvGp"
+  }
+}

@@ -1,0 +1,10 @@
+node_modules
+build
+dist
+.vscode
+*.xlsx#
+rethinkdb_data
+
+# Don't track HTML docs right now
+/docs/*.html*
+out
